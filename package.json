@@ -4,7 +4,7 @@
   "description": "A GopherJS plugin for Gulp",
   "main": "index.js",
   "scripts": {
-    "test": "pushd test && gulp && popd"
+    "test": "pushd test && npm install && gulp && popd"
   },
   "repository": {
     "type": "git",
