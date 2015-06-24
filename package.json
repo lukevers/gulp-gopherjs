@@ -1,0 +1,32 @@
+{
+  "name": "gulp-gopherjs",
+  "version": "0.0.1",
+  "description": "GopherJS for Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukevers/gulp-gopherjs.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "go",
+    "gopher",
+    "gopherjs"
+  ],
+  "author": "Luke Evers <luke@lukevers.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukevers/gulp-gopherjs/issues"
+  },
+  "homepage": "https://github.com/lukevers/gulp-gopherjs#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "shelljs": "^0.5.1",
+    "through2": "^2.0.0",
+    "tmp": "0.0.26"
+  }
+}

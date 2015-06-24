@@ -1,0 +1,10 @@
+# OS X Files
+.DS_Store
+
+# Folders
+node_modules
+
+# Test files
+test/test
+test/js/*.js
+test/js/*.js.map
