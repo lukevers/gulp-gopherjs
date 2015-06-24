@@ -1,7 +1,7 @@
 {
   "name": "gulp-gopherjs",
   "version": "0.0.1",
-  "description": "GopherJS for Gulp",
+  "description": "A GopherJS plugin for Gulp",
   "main": "index.js",
   "scripts": {
     "test": "pushd test && gulp && popd"
