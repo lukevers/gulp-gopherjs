@@ -2,6 +2,8 @@
 
 A [GopherJS](http://www.gopherjs.org/) plugin for [Gulp](http://gulpjs.com/).
 
+[![NPM Version](https://img.shields.io/npm/v/gulp-gopherjs.svg)](https://www.npmjs.com/package/gulp-gopherjs)
+
 ## Installation
 
 ```bash
