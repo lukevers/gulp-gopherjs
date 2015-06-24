@@ -17,7 +17,7 @@
     "gopher",
     "gopherjs"
   ],
-  "author": "Luke Evers <luke@lukevers.com>",
+  "author": "Luke Evers <npm@lukevers.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/lukevers/gulp-gopherjs/issues"
