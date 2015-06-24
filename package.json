@@ -4,7 +4,7 @@
   "description": "GopherJS for Gulp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "pushd test && gulp && popd"
   },
   "repository": {
     "type": "git",
