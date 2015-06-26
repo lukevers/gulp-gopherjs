@@ -32,7 +32,7 @@ See [test/gulpfile.js](test/gulpfile.js) for more examples.
 	// Set a destination folder for the compiled files.
 	dest: './js',
 
-	// Set to trye if you want to minify your compiled files.
+	// Set to true if you want to minify your compiled files.
 	minify: false,
 }
 ```
